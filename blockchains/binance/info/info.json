@@ -1,32 +1,26 @@
 {
-    "name": "BNB Beacon Chain",
-    "website": "https://binance.org/",
-    "description": "Fast and secure decentralized digital asset exchange. The new crypto currency trading standard is here.",
+    "name": "Ran Digital",
+    "website": "https://randigital.in/",
+    "description": "Ran Digital (RND) is a token on BNB Smart Chain. Official project information is available at https://randigital.in/
+
+.",
     "explorer": "https://explorer.binance.org/",
     "research": "https://research.binance.com/en/projects/bnb",
     "symbol": "BNB",
-    "type": "coin",
-    "decimals": 8,
+    "type": "Token",
+    "decimals": 18,
     "status": "active",
     "tags": [
         "staking-native"
     ],
     "links": [
         {
-            "name": "github",
-            "url": "https://github.com/binance-chain/"
+            "name": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=61590396932149"
         },
         {
             "name": "x",
-            "url": "https://x.com/binance_dex"
+            "url": "https://x.com/RanDigitalRND"
         },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/BinanceExchange"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
-        }
     ]
-}
+        
